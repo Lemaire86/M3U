@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:0, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Legislative" - Justicia TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
+#EXTINF:0, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Legislative" - Knesset Channel (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://stream.mcquack.net/48/index.m3u8
+#EXTINF:0, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative" - Parliament TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
+#EXTINF:0, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Legislative" - Pershyi Zahidnyi (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://stream.mcquack.net/246/index.m3u8
+#EXTINF:0, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative" - #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://dumatv.iptv2022.com/playlist.m3u8

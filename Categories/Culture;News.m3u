@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News" - Ost West (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+#EXTVLCOPT:network-caching=1000
+http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:0, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Culture;News" - Ost West 24 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://stream.mcquack.net/455/index.m3u8
